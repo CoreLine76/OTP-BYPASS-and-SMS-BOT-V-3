@@ -1,6 +1,12 @@
 # OTP-BYPASS-and-SMS-BOT-V-3
 OTP BYPASS and SMS BOT V 3
 
+I will install the bot for a fee.
+
+Ask questions outside of setup via ISSUES, not telegram
+
+Telegram for installation : https://t.me/coreline76
+
 1-)Added SMS Spam Feature
 
 2-)5 6 and 8 digit otp modules 
