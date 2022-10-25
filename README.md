@@ -1,9 +1,14 @@
 # OTP-BYPASS-and-SMS-BOT-V-3
 OTP BYPASS and SMS BOT V 3
+
 1-)Added SMS Spam Feature
+
 2-)5 6 and 8 digit otp modules 
+
 3-) Make a special search by entering the name and company name
+
 4-) Calling with registered number in Twillio without changing the configuration file
+
 5-) Authorize the user you want with the Discord Bot
 6-) Seeing every number entered online after calling
 7-) Search with audio copies of all social media platforms
