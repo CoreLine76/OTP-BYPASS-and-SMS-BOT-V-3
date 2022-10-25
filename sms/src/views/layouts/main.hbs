@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TWILO OTP BYPASSBOT V 3 and SMS SENDER</title>
+  {{!-- Bootswatch Lux Theme --}}
+  <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.min.css">
+  {{!-- TEXT SECURITY --}}
+  <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/noppa/text-security/master/dist/text-security.css">
+
+  {{!-- CUSTOM CSS --}}
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+
+<body>
+
+  {{>navigation}}
+
+  <div class="container p-4">
+    {{{body}}}
+  </div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/main.js"></script>
+</body>
+
+</html>
