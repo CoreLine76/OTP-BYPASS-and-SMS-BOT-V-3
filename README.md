@@ -5,7 +5,7 @@ I will install the bot for a fee.
 
 Ask questions outside of setup via ISSUES, not telegram
 
-Telegram for installation : https://t.me/Linecore76
+Telegram for installation : https://t.me/CoreTheLine
 
 I will be with you soon. Telegram is currently closed.
 
