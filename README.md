@@ -1,7 +1,8 @@
 # OTP-BYPASS-and-SMS-BOT-V-3
 OTP BYPASS and SMS BOT V 3
 
-I will install the bot for a fee.
+!!!! All files have been deleted and the installation fee is included. Do not write to request anything other than installation.
+I will install the bot for a fee.!!!
 
 Ask questions outside of setup via ISSUES, not telegram
 
