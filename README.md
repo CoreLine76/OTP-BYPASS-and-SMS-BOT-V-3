@@ -52,7 +52,7 @@ Twilio Account.
 
 ✳️Localtonet Account
 
-✳️Installation is completely free. It's Full Setup.
+✳️Installation is completely paid. It is Full Installation.
 
 ✳️Twilio Account must be created in your own name.
 
