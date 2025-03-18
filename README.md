@@ -6,7 +6,7 @@ I will install the bot for a fee.!!!
 
 👨‍👨‍👦‍Ask questions outside of setup via ISSUES, not telegram👨‍👨‍👦
 
-👘Telegram for installation : 🤖https://t.me/Hidddenboys🤖
+👘Telegram for installation : 🤖[https://t.me/Hidddenboys](https://t.me/CoreTheLine)🤖
 
 
 
