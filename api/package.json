@@ -22,7 +22,7 @@
     "path": "^0.12.7",
     "pm2": "^5.1.2",
     "sqlite3": "^5.0.0",
-    "twilio": "^3.54.1"
+    "twilio": "^5.4.4"
   },
   "devDependencies": {},
   "keywords": [],
