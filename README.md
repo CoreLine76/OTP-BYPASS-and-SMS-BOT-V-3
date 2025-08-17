@@ -60,7 +60,3 @@ Twilio Account.
 
 ✳️VDS or VPS Server is recommended for the bot to run continuously.
 
-![MESSAGE](https://user-images.githubusercontent.com/92768020/197740599-adae458e-2d4c-46fc-b0c3-8507eccd1d3b.png)
-![otp1](https://user-images.githubusercontent.com/92768020/197740604-5b03f01d-a278-4279-9df5-fd8c5de953ed.png)
-![otp2](https://user-images.githubusercontent.com/92768020/197740609-71053a17-5487-4c87-b858-b14ed69e86ae.png)
-![otp3](https://user-images.githubusercontent.com/92768020/197740615-e6f202ae-4b9f-4dd2-a1c8-d327b0329690.png)
