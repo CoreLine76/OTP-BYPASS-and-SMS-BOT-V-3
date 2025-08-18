@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "generate-password": "^1.5.1",
-    "mocha": "^8.2.1",
+    "mocha": "^11.0.1",
     "morgan": "^1.10.0",
     "ngrok": "^4.2.2",
     "path": "^0.12.7",
