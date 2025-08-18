@@ -16,7 +16,7 @@
     "handlebars": "^4.5.3",
     "mongoose": "^5.9.10",
     "morgan": "^1.10.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.1",
     "timeago.js": "^4.0.2",
     "twilio": "^3.42.2"
   },
