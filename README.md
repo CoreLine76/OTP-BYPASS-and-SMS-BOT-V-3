@@ -6,7 +6,7 @@ I will install the bot for a fee.!!!
 
 👨‍👨‍👦‍Ask questions outside of setup via ISSUES, not telegram👨‍👨‍👦
 
-👘Telegram for installation : [https://t.me/CoreTheLine](https://t.me/CoreTheLine)
+👘Telegram for installation : [https://t.me/HelpContactv3_bot](https://t.me/HelpContactv3_bot)
 
 
 
