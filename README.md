@@ -6,8 +6,8 @@ I will install the bot for a fee.!!!
 
 👨‍👨‍👦‍Ask questions outside of setup via ISSUES, not telegram👨‍👨‍👦
 
-👘Telegram for installation : [https://t.me/AILiteServices](https://t.me/AILiteServices)
-
+👘Telegram for installation : [https://t.me/special_Core](https://t.me/special_Core)
+https://t.me/special_Core
 
 
 ✅1-)Added SMS Spam Feature
