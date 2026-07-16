@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^4.0.3",
     "handlebars": "^4.5.3",
-    "mongoose": "^5.9.10",
+    "mongoose": "^5.13.22",
     "morgan": "^1.10.0",
     "socket.io": "^2.3.0",
     "timeago.js": "^4.0.2",
