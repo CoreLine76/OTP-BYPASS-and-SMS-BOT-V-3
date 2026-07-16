@@ -11,14 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-handlebars": "^4.0.3",
     "handlebars": "^4.5.3",
     "mongoose": "^5.9.10",
     "morgan": "^1.10.0",
     "socket.io": "^2.3.0",
     "timeago.js": "^4.0.2",
-    "twilio": "^3.42.2"
+    "twilio": "^4.19.3"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
