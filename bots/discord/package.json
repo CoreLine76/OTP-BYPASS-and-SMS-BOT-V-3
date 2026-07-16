@@ -4,9 +4,9 @@
   "description": "",
   "main": "bot.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "discord.js": "^12.5.1",
-    "qs": "^6.9.4",
+    "qs": "^6.14.2",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {},
