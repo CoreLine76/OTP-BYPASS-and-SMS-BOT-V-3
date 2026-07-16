@@ -15,7 +15,7 @@
     "express-handlebars": "^6.0.6",
     "handlebars": "^4.5.3",
     "mongoose": "^5.9.10",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "socket.io": "^2.3.0",
     "timeago.js": "^4.0.2",
     "twilio": "^3.42.2"
