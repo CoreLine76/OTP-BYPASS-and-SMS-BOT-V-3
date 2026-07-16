@@ -16,13 +16,13 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "generate-password": "^1.5.1",
-    "mocha": "^8.2.1",
+    "mocha": "^11.2.2",
     "morgan": "^1.10.0",
     "ngrok": "^4.2.2",
     "path": "^0.12.7",
     "pm2": "^5.1.2",
     "sqlite3": "^5.0.0",
-    "twilio": "^3.54.1"
+    "twilio": "^5.6.0"
   },
   "devDependencies": {},
   "keywords": [],
