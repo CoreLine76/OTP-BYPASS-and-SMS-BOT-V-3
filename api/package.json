@@ -21,7 +21,7 @@
     "ngrok": "^4.2.2",
     "path": "^0.12.7",
     "pm2": "^5.1.2",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.1.7",
     "twilio": "^3.54.1"
   },
   "devDependencies": {},
